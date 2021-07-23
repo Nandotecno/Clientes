@@ -167,14 +167,14 @@ public class Client {
     
     public static Client createTestClient() {
         Client client = new Client();
-        client.setFirstName("George");
-        client.setSurname("Foo");
-        client.setNickname("Juraj");
+        client.setFirstName("02/07/2021");
+        client.setSurname("05/07/2021");
+        client.setNickname("Fernando Cruz");
         client.setAge(30);
         
-        client.setEmail("g.foo@foo.org");
-        client.setWeb("https://beansbinding.dev.java.net");
-        client.setIm("ICQ: 53 25 89 76");
+        client.setEmail("fernando.crz.santos@gmail.com");
+        client.setWeb("https://www.otica.com.br");
+        client.setIm("011 952349487");
         
         client.setSex(1);
         client.setMaritalStatus(2);
